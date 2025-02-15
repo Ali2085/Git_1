@@ -1,2 +1,5 @@
 this file name is a.txt
+<<<<<<< HEAD
 haha
+=======
+>>>>>>> 9f8ff3503f63c61db0aa70ef2b6efc7193b7edd6
